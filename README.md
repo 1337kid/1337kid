@@ -2,5 +2,5 @@
 <br>
 </div>
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=1337kid&theme=midnight-purple&show_icons=true&layout=compact&hide=contribs&hide_border=true" alt="kek" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337kid&layout=compact&theme=midnight-purple&hide_border=true" alt='lol'/> |
+| <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1337kid&theme=midnight_purple" alt="kek" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1337kid&layout=compact&theme=midnight-purple&hide_border=true" alt='lol'/> |
 | ------------- | ------------- |
