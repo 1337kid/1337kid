@@ -13,7 +13,7 @@ webdev = [ "HTML" , "CSS" , "Jinja" ]
 # I user Ubuntu Budgie btw
 
 [Contact]
-email = "1337kid@proton.me"
+email = "1337kid[at]proton[dot]me"
 PGP_ACCEPTED = true
 ```
 
