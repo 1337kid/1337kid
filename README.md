@@ -8,7 +8,7 @@
 ```toml
 [1337kid]
 desc = "Just a guy who can make your PC go sponge made"
-langs = [ "Python" , "Shell ??" ]
+langs = [ "Python" , "Shell ??" , "C"]
 webdev = [ "HTML" , "CSS" , "Jinja" ]
 # I use Ubuntu Budgie btw
 
