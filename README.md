@@ -10,7 +10,6 @@
 desc = "Just a guy who can make your PC go sponge made"
 langs = [ "Python" , "Shell ??" , "C"]
 webdev = [ "HTML" , "CSS" , "Jinja" ]
-# I use Ubuntu Budgie btw
 
 [Contact]
 email = "1337kid[at]proton[dot]me"
