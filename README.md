@@ -5,16 +5,9 @@
 </div>
 <br/>
 
-```toml
-[1337kid]
-desc = "Just a guy who can make your PC go sponge made"
-langs = [ "Python" , "Shell ??" , "C"]
-webdev = [ "HTML" , "CSS" , "Jinja" ]
-
-[Contact]
-email = "1337kid[at]proton[dot]me"
-PGP_ACCEPTED = true
-```
+<div align="center">
+<img src="1337.png"/>
+</div>
 
 <details closed>
 <summary>Click to view my PGP Public key</summary>
