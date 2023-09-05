@@ -5,9 +5,25 @@
 </div>
 <br/>
 
-<div align="center">
-<img src="1337.png"/>
-</div>
+```javascript
+export default () => ({
+  technologies: {
+    "Languages": [ "C", "Python"],
+    "webdev": [
+        "HTML", "CSS", "JavaScript", "TypeScript", "ReactJS", "NextJS", "Flask"
+    ],
+    "databases": [ "MySQl", "MongoDB" ],
+    "operatingSystems": [ "Ubuntu Budgie", "Windows" ],
+  },
+  Interest: [
+    "Coding", "Music", "ARGs" , "CTFs"
+  ],
+  Contact: {
+    "Email": "1337kid[at]proton[dot]me",
+    "PGPaccepted": true
+  }
+});
+```
 
 <details closed>
 <summary>Click to view my PGP Public key</summary>
